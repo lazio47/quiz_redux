@@ -5,7 +5,7 @@ An interactive quiz application developed using React and Redux. It allows users
 ---
 
 ## **Live Demo**
-> You can view the deployed site at:
+> You can view the deployed site at: [quiz-redux-lazio](https://quiz-redux-lazio.netlify.app/)
 
 ---
 
